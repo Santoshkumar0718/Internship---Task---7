@@ -1,1 +1,1 @@
-# Internship---Task---7
+I reviewed all installed browser extensions using the extensions manager. Then, I carefully checked their permissions, publishers, and reviews to identify any suspicious or unnecessary ones. I removed the unwanted extensions, restarted the browser, and documented the steps along with my findings.
